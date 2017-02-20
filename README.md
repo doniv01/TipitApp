@@ -6,6 +6,8 @@ Submitted by: Vinod Rajpurohit
 
 Time spent: 3 hours spent in total
 
+![app demo] (tipit gif.gif)
+
 ## User Stories
 
 The following **required** functionality is complete:
