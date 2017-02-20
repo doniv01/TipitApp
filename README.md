@@ -6,7 +6,7 @@ Submitted by: Vinod Rajpurohit
 
 Time spent: 3 hours spent in total
 
-![app demo] (tipit gif.gif)
+![app demo] (tipit-app-v1.gif)
 
 ## User Stories
 
