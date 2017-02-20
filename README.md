@@ -19,10 +19,6 @@ The following **optional** features are implemented:
 * [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 
-## Notes
-
-Build this app in the flight. 
-
 ## License
 
     Copyright [2017] [Vinod Rajpurohit]
